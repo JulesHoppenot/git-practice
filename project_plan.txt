@@ -1,1 +1,2 @@
 Project Outline: Machine Leaning
+added initial project goals and scope
